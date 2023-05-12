@@ -26,7 +26,8 @@ p {
 }
 
 body{
-  background: -webkit-linear-gradient(top, #802392, #995FA3, #9A98B5, #A0B9C6, #A5F8D3);
+  background: rgb(131,58,180);
+  background: linear-gradient(180deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
 
 }
 
